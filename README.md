@@ -8,11 +8,6 @@
   O sistema gera relatórios em planilhas e foi desenvolvido com a lógica em <strong>C</strong> e a interface em <strong>PowerShell</strong>.
 </p>
 
-<p align="center">
-  <img src="Manager.jpeg" alt="Manager app image" width="45%" />
-  <img src="Presence_control.jpeg" alt="Presence control image" width="45%" />
-</p>
-
 ---
 
 ## Visão geral
