@@ -21,13 +21,3 @@ A university project developed to digitize the record of members and their parti
   <img src="Manager.jpeg" alt="Tela do gerenciador" width="45%" />
   <img src="Presence_control.jpeg" alt="Tela de controle de presença" width="45%" />
 </p>
-
-## Observações
-
-Este projeto foi desenvolvido como parte de uma atividade acadêmica e tem foco em automação de registros e produção de relatórios.
-
----
-
-<p align="center">
-  Feito com foco em organização, praticidade e automação.
-</p>
