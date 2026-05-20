@@ -1,7 +1,7 @@
 <h1 align="center">Event Presence Analyzer</h1>
 
 <p align="center">
-  <strong>Projeto universitário para digitalizar o registro de membros e sua participação em eventos de uma igreja local.</strong>
+  <strong>A university project to digitize the records of members and their participation in events at a local church.</strong>
 </p>
 
 ## Visão geral
@@ -10,9 +10,9 @@ A university project developed to digitize the record of members and their parti
 
 ## Tecnologias utilizadas
 
-- **C** — lógica principal do sistema
-- **PowerShell** — interface do aplicativo
-- **Planilhas** — geração dos relatórios
+- **C** — core logic of the system
+- **PowerShell** — application interface
+- **Spreadsheets** — report generation
 
 
 ## Capturas de tela
