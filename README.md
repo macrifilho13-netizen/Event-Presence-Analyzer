@@ -3,4 +3,4 @@ A university project developed to digitize the record of members and their parti
 
 ![Manager app image](Manager.jpeg)
 
-![Presence_control image](Presence_control)
+![Presence_control image](Presence_control.jpeg)
