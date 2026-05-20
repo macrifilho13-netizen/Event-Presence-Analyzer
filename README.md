@@ -6,7 +6,7 @@
 
 ## Visão geral
 
-O **Event Presence Analyzer** foi criado para facilitar o controle de presença em eventos, substituindo registros manuais por um fluxo mais organizado e automatizado.
+A university project developed to digitize the record of members and their participation in events at a local church, generating reports in spreadsheets. The project’s logic was written entirely in C, with the interface created using a PowerShell application.
 
 ## Tecnologias utilizadas
 
@@ -14,11 +14,6 @@ O **Event Presence Analyzer** foi criado para facilitar o controle de presença 
 - **PowerShell** — interface do aplicativo
 - **Planilhas** — geração dos relatórios
 
-## Funcionalidades
-
-- Registro de membros
-- Controle de presença em eventos
-- Geração de relatórios em planilhas
 
 ## Capturas de tela
 
