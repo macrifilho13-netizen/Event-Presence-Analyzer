@@ -8,8 +8,6 @@
   O sistema gera relatórios em planilhas e foi desenvolvido com a lógica em <strong>C</strong> e a interface em <strong>PowerShell</strong>.
 </p>
 
----
-
 ## Visão geral
 
 O **Event Presence Analyzer** foi criado para facilitar o controle de presença em eventos, substituindo registros manuais por um fluxo mais organizado e automatizado.
