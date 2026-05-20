@@ -19,7 +19,6 @@ O **Event Presence Analyzer** foi criado para facilitar o controle de presença 
 - Registro de membros
 - Controle de presença em eventos
 - Geração de relatórios em planilhas
-- Organização dos dados de participação
 
 ## Capturas de tela
 
